@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="gb2312"?>
 <CustomerInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Address>东城区</Address>
+  <Address></Address>
   <Birthday />
   <Cellphone>13717552078</Cellphone>
   <City>131100</City>
-  <CustomerName>吴金春</CustomerName>
+  <CustomerName></CustomerName>
   <Dealtime>0</Dealtime>
   <Email>wjcking@hotmail.com</Email>
   <Freeze>0</Freeze>
-  <Gender>男</Gender>
+  <Gender></Gender>
   <ID>1</ID>
   <Idcard>13110219840328041X</Idcard>
   <Intro />
-  <Job>娱乐/体育/休闲</Job>
+  <Job>濞变箰/浣撹偛/浼戦棽</Job>
   <LastLogin />
   <Level />
   <LoginTime>1</LoginTime>
